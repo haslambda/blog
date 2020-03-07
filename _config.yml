@@ -21,7 +21,7 @@ email: haslambda@gmail.com # your email
 discus_identifier: mr-brown # add your discus identifier.  Not your username.  To get this, register your forum here with a unique ID: https://disqus.com/admin/create/
 
 # Tracker
-analytics:
+analytics: UA-159976118-1
 
 # Paginate
 paginate: 12
