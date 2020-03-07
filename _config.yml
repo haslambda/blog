@@ -18,7 +18,7 @@ about-author: >
 email: haslambda@gmail.com # your email
 
 # Disqus
-discus_identifier: lambda-blog # add your discus identifier.  Not your username.  To get this, register your forum here with a unique ID: https://disqus.com/admin/create/
+discus_identifier: has-lambda-blog # add your discus identifier.  Not your username.  To get this, register your forum here with a unique ID: https://disqus.com/admin/create/
 
 # Tracker
 analytics: UA-159976118-1
