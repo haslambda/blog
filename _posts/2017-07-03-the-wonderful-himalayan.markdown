@@ -1,15 +1,17 @@
 ---
 layout: post
-title: "My first trip: The wonderful Himalayan"
-img: himalayan.jpg # Add image post (optional)
-date: 2017-07-03 12:55:00 +0300
+title: "2019 과학의 날 부스 <ARS Ingeniaria>"
+img: information_day.png # Add image post (optional)
+date: 2019-05-03 12:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [Travel, Blogging, Mountains]
+tag: [HAS, 과학의 날, LAMBDA]
 ---
-Flexitarian hella quinoa, stumptown chillwave squid heirloom pop-up church-key. Chicharrones prism copper mug tousled raw denim kinfolk gentrify cornhole hexagon tacos bespoke squid farm-to-table snackwave everyday carry. Vaporware chicharrones activated charcoal jianbing pok pok. Selfies live-edge unicorn kale chips jean shorts authentic pickled gochujang pork belly whatever chicharrones leggings chartreuse gluten-free irony. Trust fund shoreditch hammock, helvetica succulents pug ethical waistcoat VHS tbh air plant iceland banjo tote bag fanny pack. Ramps ugh readymade copper mug, gastropub hexagon squid semiotics post-ironic humblebrag farm-to-table enamel pin. Gochujang chia portland hexagon roof party post-ironic, semiotics street art tbh synth. Air plant vinyl sustainable pork belly. Chicharrones cronut raw denim listicle flexitarian franzen. Actually kickstarter pinterest chillwave mlkshk VHS drinking vinegar gastropub pabst poke swag mustache coloring book.
+  하나고등학교 2019 과학의 날 부스 운영 동아리에 선정되어 본 동아리는 학생들이 쉽게 즐길 수 있는 여러가지 활동을 준비했다.
 
-Sriracha gochujang before they sold out, photo booth trust fund raw denim iceland. Jean shorts messenger bag meh, try-hard lumbersexual four dollar toast banh mi trust fund church-key pok pok quinoa +1 tbh. Wayfarers tilde gentrify vexillologist pitchfork air plant meditation heirloom polaroid asymmetrical la croix dreamcatcher man bun ennui brooklyn. Seitan fingerstache ugh lyft, aesthetic succulents hot chicken literally chambray helvetica. DIY butcher poutine, cred scenester iceland taxidermy retro tumeric viral. Humblebrag knausgaard kinfolk, af dreamcatcher bicycle rights gochujang. Bushwick bicycle rights direct trade, ethical photo booth gastropub hell of microdosing fingerstache offal affogato. Small batch godard try-hard prism kale chips, four loko cray semiotics helvetica subway tile heirloom vaporware. Venmo VHS keytar succulents chambray.
+  그 중에는 유전 알고리즘을 이용한 초상화 그리기, Alpha-beta pruning 기술을 활용한 오목 인공지능 알파-오, 메이키메이키를 활용한 리듬게임 등이 있었다. 유전 알고리즘을 이용한 활동의 경우 누구나 알기 쉬운 캐릭터나 사람 사진을 인공지능이 그려내고, 세대를 거듭할수록 점점 선명해지는 이미지를 보고 학생들이 그 대상을 맞추는 방식으로 진행되었다. 다양한 이미지를 대상으로 여러 차례 진행되었으며, 소정의 상품을 지급하였다.
 
-> Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
+  오목 인공지능의 경우 LAMBDA 부원들이 직접 인공지능을 대신해 바둑돌을 놓으며 학생들과 게임을 진행했다. 대부분의 경우 인공지능이 승리했으나 간혹 승리하는 학생들이 있었다.
 
-Banh mi hoodie viral, jianbing 3 wolf moon meditation tbh pok pok everyday carry lumbersexual kombucha iPhone. Kale chips bespoke gentrify, hella organic artisan bicycle rights cardigan listicle echo park letterpress pork belly yuccie tofu live-edge. Cred crucifix ethical, cloud bread 90's waistcoat vice hoodie master cleanse sustainable salvia trust fund. Ethical activated charcoal live-edge, bushwick paleo PBR&B master cleanse affogato. Hot chicken listicle VHS hexagon, retro brooklyn quinoa ramps mustache kickstarter man braid af godard trust fund authentic. Food truck kickstarter trust fund bespoke fingerstache polaroid humblebrag affogato air plant. Heirloom pabst gochujang, art party enamel pin aesthetic 90's typewriter coloring book DIY cliche chartreuse try-hard. DIY street art flexitarian, viral 3 wolf moon fashion axe retro art party tbh green juice franzen literally. Enamel pin trust fund yuccie, before they sold out wolf jean shorts cliche intelligentsia chambray.
+  메이키메이키를 이용한 게임은 바나나를 입력 장치로 사용했다. 학생들은 이를 통해 일상 속 물체가 게임보드가 되는 새로운 경험을 할 수 있었을 것이다.
+
+  자율동아리 중에는 유일하게 과학의 날 부스 운영 동아리로 선발되어 학생들이 즐길 수 있는 프로그램을 준비했다.
