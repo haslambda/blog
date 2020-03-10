@@ -5,6 +5,7 @@ img: information_day.png # Add image post (optional)
 date: 2019-05-03 12:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [HAS, 과학의 날, LAMBDA]
+comments: true
 ---
   하나고등학교 2019 과학의 날 부스 운영 동아리에 선정되어 본 동아리는 학생들이 쉽게 즐길 수 있는 여러가지 활동을 준비했다.
 
@@ -14,4 +15,4 @@ tag: [HAS, 과학의 날, LAMBDA]
 
   메이키메이키를 이용한 게임은 바나나를 입력 장치로 사용했다. 학생들은 이를 통해 일상 속 물체가 게임보드가 되는 새로운 경험을 할 수 있었을 것이다.
 
-  자율동아리 중에는 유일하게 과학의 날 부스 운영 동아리로 선발되어 학생들이 즐길 수 있는 프로그램을 준비했다.
+  LAMBDA는 자율동아리 중 유일하게 과학의 날 부스 운영 동아리로 선발되어 학생들이 즐길 수 있는 프로그램을 준비했었다. 준비 과정에서 새로운 언어를 접하거나 새로운 알고리즘을 공부해야 하는 등 성장할 수 있었고, 막힐 때 서로 도우며 부스 운영날까지 무사히 프로그램들을 준비할 수 있었다.
