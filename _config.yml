@@ -7,7 +7,7 @@ url: "https://haslambda.github.io" # the base hostname & protocol for your site,
 
 # Banner settings
 video: banner-muted.mp4 # add banner video. Add your video file to the folder video
-banner-title: HAS Lambda Tech Blog # add banner title
+banner-title: HAS Lambda Techno Blog # add banner title
 banner-desc: # add banner description
 
 # Author settings
